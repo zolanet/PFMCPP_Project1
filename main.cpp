@@ -52,86 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: towingTruck
+//  action 1: towes
+towingTruck.tow();
+//  action 2: makes noise
+towingTruck.makeNoise();
+//  action 3: consumes gass
+towingTruck.consumeGass();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cloud
+//  action 1: provides shading
+cloud.shade();
+//  action 2: brings rain
+cloud.rain();
+//  action 3: dissipates
+cloud.dissipate(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: policeOfficer
+//  action 1: gives out speeding tickets
+policeOfficer.giveTicket();
+//  action 2: protects neighbourhood
+policeOfficer.protectNeighbourghood();
+//  action 3: eats dougnuts
+policeOfficer.eatDougnut(); 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: refrigerator
+//  action 1: keeps stuff cool
+refrigerator.cool();
+//  action 2: creates backgroud noise
+refrigerator.makeNoise();
+//  action 3: makes food last longer
+refrigerator.preserveFood(); 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: waterBottle
+//  action 1: holds water
+waterBottle.holdWater();
+//  action 2: hydrates
+waterBottle.hydrate();
+//  action 3: rolls on the floor
+waterBottle.rollOnFloor();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: hawk
+//  action 1: glides
+hawk.glide();
+//  action 2: plunges
+hawk.plunge();
+//  action 3: screeches
+hawk.screech();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: catcti
+//  action 1: stings
+catcti.sting();
+//  action 2: grows
+catcti.grow();
+//  action 3: collects water
+catcti.collectWater();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: blender
+//  action 1: purees
+blender.puree();
+//  action 2: blends
+blender.blend();
+//  action 3: crushes
+blender.crush();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: fireHydrant
+//  action 1: provides water
+fireHydrant.provideWater();
+//  action 2: prevents parking
+fireHydrant.preventParking();
+//  action 3: hurts if hit with a knee
+fireHydrant.hurtsKnee();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-
+//  Noun: neighbour
+//  action 1: makes noise
+neighbour.makeNoise();
+//  action 2: is inconsiderate
+neighbour.isInconsiderate();
+//  action 3: does not like cops
+neighbour.doesNotLikeCops();
 
 #endif
 
