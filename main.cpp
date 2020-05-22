@@ -108,13 +108,13 @@ catcti.grow();
 //  action 3: collects water
 catcti.collectWater();
 //  8)
-//  Noun: blender
-//  action 1: purees
-blender.puree();
-//  action 2: blends
-blender.blend();
-//  action 3: crushes
-blender.crush();
+//  Noun: gymTeacher
+//  action 1: Blows a whistle
+gymTeacher.blowsWhistle();
+//  action 2: Gives orders
+gymTeacher.giveOrders();
+//  action 3: Dresses weird
+gymTeacher.dressWeird();
 //  9)
 //  Noun: fireHydrant
 //  action 1: provides water
